@@ -180,6 +180,7 @@ Wait for a few minutes, and see the magic happen! Cool, right?
 
 Now, we would like to change a test to make our build fail. Open the ExampleTest in your code editor 
 
+
 ```
 tests/Feature/ExampleTest.php
 ```
@@ -204,5 +205,7 @@ class ExampleTest extends TestCase
 ```
 
 Now you can wave left over the NodeMCU and the build will start!
+
+You can find the code for the **NodeMCU** in the **nodemcu-gesture.ino** file.
 
 ## Thanks!
