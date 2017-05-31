@@ -208,4 +208,7 @@ Now you can wave left over the NodeMCU and the build will start!
 
 You can find the code for the **NodeMCU** in the **nodemcu-gesture.ino** file.
 
+If you're interested in programming the NodeMCU via Arduino IDE in c++, you can view this tutorial:
+http://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/
+
 ## Thanks!
